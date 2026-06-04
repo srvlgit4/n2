@@ -1,3 +1,4 @@
-pyrogram
-tgcrypto
-flask
+python-telegram-bot==20.7
+python-docx==1.1.0
+Flask==2.3.3
+lxml==4.9.4
